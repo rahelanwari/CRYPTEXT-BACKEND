@@ -1,0 +1,11 @@
+flask==2.0.1
+flask-socketio==4.3.2
+flask-cors==3.0.10
+flask-sqlalchemy==2.5.1
+python-engineio==3.14.2
+python-socketio==4.6.1
+werkzeug==2.0.1
+SQLAlchemy==1.4.23
+eventlet==0.30.2
+gevent==21.12.0
+gevent-websocket==0.10.1
